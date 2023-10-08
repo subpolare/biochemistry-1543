@@ -8,13 +8,12 @@
 
 | № | Ссылки | Краткое описание | 
 | ----------- | ----------- | ----------- | 
-| 1 | Презентация | Введение в систематику | 
-| 2 | Презентация | Супергруппы Amoebozoa и Opisthokonta | 
-| 3 | Презентация | Супергруппы Opisthokonta и Excavata | 
-| 4 | Презентация | Цианобактерии и супергруппа Archaeplastida | 
-| 5 | Презентация | Супергруппы Hacrobia и Rhizaria. | 
-| 6 | Презентация | Супергруппа Stramenopiles | 
-| 7 | Презентация | Супергруппа Alveolata и финал протистов | 
+| 1 | [Презентация](https://disk.yandex.ru/i/13uu3nP4dwNSRA) | Введение в систематику | 
+| 2 | [Презентация](https://disk.yandex.ru/i/W3vx6CSxp14Ipw) | Супергруппы Amoebozoa, Opisthokonta и Excavata | 
+| 3 | [Презентация](https://disk.yandex.ru/i/RNrJqt3Qz6c0lA) | Цианобактерии и супергруппа Archaeplastida | 
+| 4 | [Презентация](https://disk.yandex.ru/i/Y-MLLZDFnXN-UA) | Супергруппы Hacrobia и Rhizaria. | 
+| 5 | [Презентация](https://disk.yandex.ru/i/8KOzYuvYENWkaA) | Супергруппа Stramenopiles | 
+| 6 | [Презентация](https://disk.yandex.ru/i/y6Qh7htopTn9fg) | Супергруппа Alveolata и финал протистов | 
 
  ## Блок Микологии
 
@@ -22,7 +21,7 @@
 
 | № | Ссылки | Краткое описание | 
 | ----------- | ----------- | ----------- |
-| 1 | Презентация | Введение в микологию, грибоподобные организмы, базальные группы Fungi | 
-| 2 | Презентация | Отдел Ascomycota | 
-| 3 | Презентация | Отдел Basidiomycota | 
-| 4 | Презентация | Лишайники | 
+| 7 | [Презентация](https://disk.yandex.ru/i/qth-U4kRXsHe0A) | Введение в микологию, грибоподобные организмы, базальные группы Fungi | 
+| 8 | [Презентация](https://disk.yandex.ru/i/EKemLzfxU7LeVg) | Отдел Ascomycota | 
+| 9 | [Презентация](https://disk.yandex.ru/i/rDZHBS-7k6FRPw) | Отдел Basidiomycota | 
+| 10 | [Презентация](https://disk.yandex.ru/i/tQJ4rTXydFtG2w) | Лишайники | 
