@@ -5,9 +5,9 @@
 | № | Ссылки | Краткое описание | 
 | ----------- | ----------- | ----------- | 
 | 1 | [Блокнот](https://colab.research.google.com/drive/1FdlxAs7rhblT4iC3SfXa79GVvAifCYUc?usp=sharing) | Введение в Python и языки программирования, типы переменных. | 
-| 2 | [Блокнот](https://colab.research.google.com/drive/13cbhMKNni8VIaBZRWvBL0GDdBW0i5Kge?usp=sharing) | f-строки, условные операторы if-elif-else и цикл for. | 
-| 3 | [Блокнот](https://colab.research.google.com/drive/1FIlGzL4QratlkHxlr_Ja_w5YTr-q5Z0X?usp=sharing) | Цикл while, списки и кортежи. |
-| 4 | [Блокнот](https://colab.research.google.com/drive/1_bwH20Rb02xny8nx9ujeFK8oOsEtxQ2_?usp=sharing) | Словари, множества и функции def. | 
+| 2 | [Блокнот](https://colab.research.google.com/drive/13cbhMKNni8VIaBZRWvBL0GDdBW0i5Kge?usp=sharing) | `f-строки`, условные операторы `if`, `elif`, `else` и цикл `for`. | 
+| 3 | [Блокнот](https://colab.research.google.com/drive/1FIlGzL4QratlkHxlr_Ja_w5YTr-q5Z0X?usp=sharing) | Цикл `while`, списки и кортежи. |
+| 4 | [Блокнот](https://colab.research.google.com/drive/1_bwH20Rb02xny8nx9ujeFK8oOsEtxQ2_?usp=sharing) | Словари, множества и функции `def`. | 
 | 5 | [Блокнот](https://colab.research.google.com/drive/1qfKWbrYTTuFyo-EXpOdeFvinkROBT_NJ?usp=sharing) | Работа с файлами на примере анализа разных про- и эукариотических геномов. | 
 | 6 | [Блокнот](https://colab.research.google.com/drive/1RymPcrQdAbYpuNaQV3sCBOdyAVjMSPKf?usp=sharing) | Анализ геномных последовательностей. | 
 | 7 | [Блокнот](https://colab.research.google.com/drive/1zl-oF-tl0HbSgMrhc1CsqQX9Y1wi8NPv?usp=sharing) | Модуль random на примере анализа генома _Arabidopsis thaliana_. | 
