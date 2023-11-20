@@ -23,7 +23,7 @@
 | 2 | 30.09 | [Презентация](https://disk.yandex.ru/i/A7jxteXB24NpLw) | Строение и функции аминокислот и белков | [Презентация](https://disk.yandex.ru/d/EdHUWB614vblwA) | Немного термодинамической химии | 
 | 3 | 7.10 | [Презентация](https://disk.yandex.ru/i/FKnPWC3eh7lHQQ) | Строение и функции липидов и углеводов | [Презентация](https://disk.yandex.ru/i/rq6Ee8hsizVanQ) | Водородный показатель |
 | 4 | 14.10 | [Презентация](https://disk.yandex.ru/i/a-dMpME8g87sqQ) | Метаболические пути: анаболизм и катаболизм. Катаболизм углеводов | [Презентация](https://disk.yandex.ru/d/iGjdiLEE2eF7Aw) | Классы ферментов и основы катализа | 
-| 5 | 21.10 | [Презентация](https://disk.yandex.ru/i/P6d8sGY_TJ3-7Q) | Гликолиз | [Презентация](https://disk.yandex.ru/d/ecqC9cGRafPoDw) | Гликолитические ферменты | 
+| 5 | 21.10 | [Презентация](https://disk.yandex.ru/d/ecqC9cGRafPoDw) | Гликолиз | [Презентация](https://disk.yandex.ru/d/ecqC9cGRafPoDw) | Гликолитические ферменты | 
 | 6 | 11.11 | [Презентация](https://disk.yandex.ru/d/aHN3XGWRZ2G7mw) | Методы молекулярной биологии | [Презентация](https://disk.yandex.ru/d/5o7UXEje4-Offg) | Глюконеогенез и Пентозофосфатный путь | 
 | 7 | 18.11 | [Презентация](https://disk.yandex.ru/i/z1VtLF6-5JOgjQ) | Цикл Кребса | — | — | 
 | 8 | 25.11 | [Презентация](https://disk.yandex.ru/i/Rj6V2tGTlqE7nQ) | Электрон-транспортная цепь животной митохондрии | [Презентация](https://disk.yandex.ru/i/zpvmmOGVruAMMg) | Циклы Кребса и Арнона, глиоксилатный цикл | 
